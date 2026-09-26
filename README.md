@@ -2,6 +2,10 @@
 
 An unofficial, fan-made Marvel Cinematic Universe watchlist in release order, from Phase 1 through the latest releases and announced upcoming projects.
 
+## Live site
+
+[Open the MCU Watchlist](https://turjobarai.github.io/mcu-watchlist/)
+
 ## Features
 
 - Browse entries by MCU phase.
